@@ -3,7 +3,7 @@
 int main(void)
 {
 printf("hello, world \n");
-string name = get_string("what is your name?");
+string name = get_string("whats is your name?");
 
 printf("%s\n", name)
 
